@@ -1,0 +1,84 @@
+body{
+    background-image:url(https://wallpapercave.com/wp/wp5240556.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+#h3h{
+    color: white;
+    margin-right: 50%;
+}
+span{
+    color: red;
+}
+#a1{
+    margin-left: 25px;
+}
+.homelogin a{
+    text-decoration: none;
+    color: red;
+    font-size: 25px;
+    
+    
+}
+#hhr{
+    height: 10px;
+    width: 100%;
+    color: blue;
+}
+#sp1{
+    color: white;
+}
+#travel{
+    color: black;
+}
+#homemain{
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 25px;
+    height: 400px;
+    border-top-right-radius: 50px;
+    
+    background-image: url('https://savannaintl.com/wp-content/uploads/2020/12/travel-world-1.jpg');
+    background-size:cover;
+    background-repeat: no-repeat;
+
+    padding:25px;
+    font-size: 30px;
+    background-color: white;
+    color:crimson;
+    text-align: left;
+}
+
+.social-icons a{
+
+    color: red;
+}
+#contact{
+    color: white;
+}
+#cont{
+    margin-left: 25px;
+}
+#ab{
+    color: white;
+}
+#about{
+    color: white;
+}
+#con{
+
+    color: white;
+}
+#foot{
+    display: flex;
+    justify-content: space-between;
+}
+#follow{
+    color: white;
+   
+}
+#aboutus{
+    margin-right: 25px;
+}
